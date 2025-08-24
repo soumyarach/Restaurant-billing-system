@@ -1,0 +1,14 @@
+2025-08-21T19:45:15.681381,T1,"{'Butter Naan': 1, 'Dal Makhani': 1, 'Veg Spring Roll': 1}",310.0,62.0,12.4,260.4,cash
+2025-08-21T19:49:10.776226,,"{'Butter Naan': 1, 'Paneer Butter Masala': 1}",220.0,44.0,8.8,184.8,upi
+2025-08-21T21:02:36.356706,,"{'Chole Bhature': 1, 'Dal Makhani': 1, 'Idli Sambar': 1}",330.0,33.0,14.85,311.85,upi
+2025-08-21T21:07:37.484583,,"{'Paneer Butter Masala': 1, 'Masala Dosa': 1, 'Butter Naan': 1, 'Gobi Manchurian': 1, 'Hara Bhara Kabab': 1}",590.0,59.0,26.55,557.55,upi
+2025-08-21T21:08:51.662821,,"{'Chole Bhature': 3, 'Butter Naan': 2}",440.0,44.0,19.8,415.8,upi
+2025-08-21T21:13:59.578924,,"{'Chole Bhature': 1, 'Idli Sambar': 1, 'Hara Bhara Kabab': 1, 'Butter Naan': 1}",360.0,72.0,14.4,302.4,cash
+2025-08-21T21:17:30.664473,,"{'Dal Makhani': 1, 'Masala Dosa': 1, 'Veg Spring Roll': 2, 'Chole Bhature': 1, 'Gobi Manchurian': 1}",740.0,148.0,29.6,621.6,upi
+2025-08-21T21:24:16.349210,,"{'Dal Makhani': 1, 'Paneer Butter Masala': 2}",510.0,51.0,22.95,481.95,cash
+2025-08-21T21:25:27.154397,,"{'Chole Bhature': 1, 'Paneer Butter Masala': 3}",660.0,66.0,29.7,623.7,cash
+2025-08-21T21:53:59.606621,T1,"{'Chole Bhature': 1, 'Idli Sambar': 2, 'Chicken Tikka': 1, 'Hara Bhara Kabab': 1, 'Butter Naan': 1}",640.0,128.0,25.6,537.6,cash
+2025-08-21T21:55:17.157084,,"{'Idli Sambar': 1, 'Gobi Manchurian': 1, 'Butter Naan': 1, 'Hara Bhara Kabab': 1}",370.0,74.0,14.8,310.8,upi
+2025-08-21T21:58:19.753530,T1,"{'Gobi Manchurian': 1, 'Dal Makhani': 1, 'Butter Naan': 3, 'Hara Bhara Kabab': 2, 'Veg Spring Roll': 1, 'Masala Dosa': 1}",900.0,0.0,45.0,945.0,upi
+2025-08-24T20:56:08.925479,T1,"{'Dal Makhani': 1, 'Masala Dosa': 1, 'Gobi Manchurian': 1, 'Veg Spring Roll': 1, 'Idli Sambar': 1}",560.0,56.0,25.2,529.2,upi
+2025-08-24T21:58:57.917425,T1,"{'Gobi Manchurian': 3, 'Chole Bhature': 3, 'Hara Bhara Kabab': 1, 'Butter Naan': 1, 'Veg Spring Roll': 1}",1050.0,105.0,47.25,992.25,cash

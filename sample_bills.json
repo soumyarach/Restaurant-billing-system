@@ -1,0 +1,26 @@
+[
+    {
+        "bill_id": "HR123",
+        "title": "Healthcare Reform Act",
+        "sponsor": "Rep. Jane Doe",
+        "introduced_date": "2023-01-15",
+        "status": "Introduced",
+        "summary": "This bill aims to reform the healthcare system by expanding access to affordable care."
+    },
+    {
+        "bill_id": "S456",
+        "title": "Education Funding Act",
+        "sponsor": "Sen. John Smith",
+        "introduced_date": "2023-02-20",
+        "status": "In Committee",
+        "summary": "This bill proposes increased funding for public education and teacher salaries."
+    },
+    {
+        "bill_id": "HR789",
+        "title": "Climate Change Mitigation Act",
+        "sponsor": "Rep. Emily Johnson",
+        "introduced_date": "2023-03-05",
+        "status": "Passed House",
+        "summary": "This bill seeks to implement measures to reduce carbon emissions and promote renewable energy."
+    }
+]
