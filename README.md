@@ -28,41 +28,43 @@ Sample Bills – test data provided in sample_bill.json.
 
 Python 3.x
 
-Tkinter (GUI)
+    Tkinter (GUI)
 
 SQLite (Database)
 
-Pillow (Image handling)
+    Pillow (Image handling)
 
 CSV/JSON (Data storage & testing)
 
 📂 Project Structure
-restaurant_billing/
-│── app.py                # Entry point
-│── db/restaurant.db      # SQLite database
-│── data/menu.csv         # Menu items
-│── data/sample_bill.json # Test bills
-│── data/sales_report.csv # Saved sales
-│── ui/main_ui.py         # GUI application
-│── README.md             # Project info
+                        
+    restaurant_billing/
+    │── app.py                # Entry point
+    │── db/restaurant.db      # SQLite database
+    │── data/menu.csv         # Menu items
+    │── data/sample_bill.json # Test bills
+    │── data/sales_report.csv # Saved sales
+    │── ui/main_ui.py         # GUI application
+    │── README.md             # Project info
 
 🚀 How to Run
 
 Install requirements:
 
-pip install pillow
+
+    pip install pillow
 
 
 Run the app:
 
-python app.py
+    python app.py
 
 
 Login with credentials:
 
-Admin / admin
+    Admin / admin
 
-Cashier / cashier
+    Cashier / cashier
 ## Requirements
 - Python 3.x
 - Tkinter (comes with Python)
@@ -71,4 +73,5 @@ Cashier / cashier
 ## Run
 ```bash
 python app.py
+
 
